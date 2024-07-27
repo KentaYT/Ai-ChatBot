@@ -1,0 +1,22 @@
+{
+  "name": "ai-chatbot",
+  "description": "advance ai chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "mongoose": "^8.5.1",
+    "rsnchat": "^4.0.1"
+  },
+  "keywords": [
+    "ai-chatbot",
+    "discord.js"
+  ],
+  "type": "commonjs",
+  "author": "KentaYT",
+  "license": "MIT"
+}
