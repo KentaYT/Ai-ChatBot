@@ -6,7 +6,8 @@ Before you can run the bot, you will need to:
 2. Clone the repository to your local machine.
 3. Install the dependencies by running `npm install`.
 4. Create a Discord bot and obtain its token.
-5. Create a RsnChat account and obtain your API key.
+5. Create a MongoDB URL
+6. Create a RsnChat account and obtain your API key.
 
 ## Configuration
 
@@ -18,6 +19,9 @@ client_token: 'YOUR_BOT_TOKEN',
 
 // Discord bot id
 client_id: 'YOUR_BOT_ID'
+
+// MongoDB URL
+mongodb_url: "YOUR_MONGODB_URL",
 
 // RsnChat API key
  rsnkey: 'YOUR_API_KEY',
@@ -40,4 +44,4 @@ Join this discord server to get api key https://discord.gg/6ahRY6am65
 
 ## Contact
 
-If you have any questions or suggestions, then you can join our [support server](https://discord.gg/6ahRY6am65) and ask there.
+If you have any questions or suggestions, then you can join our [support server](https://discord.gg/Kfff8WSbNe) and ask there.
